@@ -2,10 +2,12 @@ streamlit
 numpy
 pandas
 matplotlib
-shap
-scikit-learn
-lifelines
+
 joblib
 scipy
 xgboost
+shap
+scikit-learn
+scikit-survival
+lifelines
 seaborn
