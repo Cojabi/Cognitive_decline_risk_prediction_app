@@ -8,4 +8,4 @@ lifelines
 joblib
 scipy
 xgboost
-sns
+seaborn
